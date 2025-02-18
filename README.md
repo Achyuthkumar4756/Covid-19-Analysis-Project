@@ -1,5 +1,5 @@
 # Impact of COVID on Mental Health in Pregnency
-This project analyzes the impact of COVID-19 on mental health using data cleaning, visualization, and predictive modeling. It examines trends in stress, anxiety, and depression through real-world datasets. Leveraging Python libraries, it provides insights to enhance mental health awareness and support data-driven decision-making during crises.
+This project analyzes the impact of COVID-19 on mental health or pregnancy womans using data cleaning, visualization, and predictive modeling. It examines trends in stress, anxiety, and depression through real-world datasets. Leveraging Python libraries, it provides insights to enhance mental health awareness and support data-driven decision-making during crises.
 ##  Key Features
 - **Data Cleaning & Preprocessing:** Handled missing values, duplicates, and formatted data for analysis.
 - **Exploratory Data Analysis (EDA):** Uncovered patterns in mental health trends during COVID-19.
