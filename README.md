@@ -4,7 +4,7 @@ This project analyzes the impact of COVID-19 on mental health or pregnancy woman
 - **Data Cleaning & Preprocessing:** Handled missing values, duplicates, and formatted data for analysis.
 - **Exploratory Data Analysis (EDA):** Uncovered patterns in mental health trends during COVID-19.
 - **Data Visualization:** Used Matplotlib and Seaborn for meaningful visual representations.
-- **Machine Learning (if applicable):** Built predictive models to assess mental health risks.
+- **Machine Learning :** Built predictive models to assess mental health risks.
 - **Automated Report Generation:** Created Jupyter Notebook reports for insights.
 
 ##  Technologies & Tools Used :
